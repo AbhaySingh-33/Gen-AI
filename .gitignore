@@ -1,0 +1,40 @@
+# Environment & Secrets
+.env
+*.env
+*.pem
+*.key
+*.secret
+
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+.venv/
+venv/
+env/
+
+# IDE
+.vscode/
+.idea/
+*.swp
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Data & Uploads
+*.pdf
+*.csv
+*.sqlite
+*.db
+
+# Vector & Graph DB local data
+kg-rag-system/neo4j_data/
+kg-rag-system/qdrant_data/
+
+# Logs
+*.log
+logs/
+
+# Docker
+docker-compose.override.yml

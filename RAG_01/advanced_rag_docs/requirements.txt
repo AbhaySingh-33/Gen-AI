@@ -1,0 +1,8 @@
+langchain
+langchain-community
+langchain-mistralai
+faiss-cpu
+beautifulsoup4
+python-dotenv
+lxml
+streamlit

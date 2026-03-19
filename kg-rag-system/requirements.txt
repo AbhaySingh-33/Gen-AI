@@ -1,0 +1,10 @@
+neo4j
+qdrant-client
+pymupdf
+mistralai
+python-dotenv
+langchain-text-splitters
+langchain-community
+sentence-transformers
+langchain-community
+streamlit
